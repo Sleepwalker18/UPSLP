@@ -1,1 +1,1 @@
-Este proyecto fue desarrollado en C, lee un archivo y mediante ramificaciones de arbol binario separa los alumnos en grupos segun el numero de alumnos que hay en el archivo, obteniendo grupos de 20 alumnos.
+Este proyecto fue desarrollado en C, lee un archivo que contiene nombre de alumnos y sus respectivas calificaciones. Mediante ramificaciones de arbol binario separa los alumnos en grupos segun el numero de alumnos que hay en el archivo, obteniendo grupos de 20 alumnos.
