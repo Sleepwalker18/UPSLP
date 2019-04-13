@@ -1,0 +1,21 @@
+
+******************************************************************
+
+	  Bienvenido a este juego llamado: LABCRASH.
+	
+En este juego comenzaras en la casilla principal de un laberinto.
+Se te impondra un lugar a donde llegar y dicho lugar estara 
+marcado con un simbolo.
+
+El objetivo del juego es que logres llegar hasta ahi sin que
+pierdas tus vidas,perderas una vida si tocas alguno de los 
+monstruos que se encuentran dispersos y escondidos entre 
+las casillas.
+
+Cada que el jugador toque a un monstruo se le descontara una vida
+y un monstruo.A menos que solo sean 1 o 2 monstruos,si es asi los
+monstruos solo seran reubicados.
+
+El juego termina cuando el jugador gana,o pierde todas sus vidas.
+
+******************************************************************
