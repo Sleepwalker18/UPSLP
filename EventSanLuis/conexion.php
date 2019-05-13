@@ -1,8 +1,8 @@
 <?php
-	$servername = "sql205.0fees.us";
-	$username = "0fe_19125340";
-	$password = "parcial3";
-	$dbname = "0fe_19125340_event_slp";
+	$servername = "servername";
+	$username = "username";
+	$password = "password";
+	$dbname = "dbname";
 	// Create connection
 	$conn = new mysqli($servername, $username, $password, $dbname);
 	// Check connection
