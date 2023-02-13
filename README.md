@@ -1,2 +1,2 @@
 # UPSLP
-Proyectos elaborados para la Universidad donde estudio
+Proyectos elaborados para la Universidad donde estudie
